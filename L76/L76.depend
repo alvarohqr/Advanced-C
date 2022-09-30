@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663643643 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l76\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+
