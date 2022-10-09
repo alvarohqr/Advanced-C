@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665095055 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l130\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<math.h>
+

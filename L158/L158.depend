@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665258783 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l158\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1665255532 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l157\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1665256165 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l157\mutex_static.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1665256701 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l157\mutex_deadlock.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+
+1665257155 source:c:\users\alvar\onedrive\documentos\cursos\advanced c programming course\l157\mutex_deadlock_solution.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+
